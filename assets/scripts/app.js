@@ -24,9 +24,9 @@ app.get("/getData", (req, res) => {
 // given instead of 3000, the only
 // condition is that no other server
 // should be running at that port
-app.listen(3000, () => {
+app.listen(4000, () => {
 
     // Print in the console when the
     // servers starts to listen on 3000
-    console.log("Listening to port 3000");
+    console.log("Listening to port 4000");
 });
