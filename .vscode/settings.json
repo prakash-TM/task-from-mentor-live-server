@@ -1,6 +1,8 @@
 {
     "liveServer.settings.port": 5502,
     "cSpell.words": [
-        "getdata"
+        "getapi",
+        "getdata",
+        "hideloader"
     ]
 }
